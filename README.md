@@ -6,7 +6,7 @@ Utilizing the [toy-arms](https://github.com/pseuxide/toy-arms) Rust library for 
 
 The intention is purely educational and serves as POC, and I do not endorse cheating for malicious purposes.
 
-![Final result]([http://url/to/img.png](https://i.imgur.com/ezthjMS.png))
+![Final result](https://i.imgur.com/ezthjMS.png)
 
 ## Usage
 
